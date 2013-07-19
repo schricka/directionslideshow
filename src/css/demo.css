@@ -1,0 +1,14 @@
+/* you don't need this for your implementation */
+
+body { background:white; padding:0;margin:0; }
+
+
+#DemoContainer { margin:0 auto; width:70%}
+#BasicDemo {width:220px;height:220px;border:1px solid black;}
+
+#MultipleDemo  {width:660px;height:440px;border:1px solid black;}
+#MultipleDemo  .SlideBox {float:left;width:220px;height:220px;}
+
+
+#HtmlDemo{width:220px;height:220px;border:1px solid black;}
+#HtmlDemo li {background:grey;}
