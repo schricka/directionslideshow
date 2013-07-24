@@ -14,18 +14,31 @@
 
   - **Basic Syntax**
   ```HTML
+  
 	<div id="BasicDemo" class="DirectionSlideContainer">
+	
 		<div class="SlideBox">
+	
 			<ul>
+	
 				<li data-direction="south"><a href=""><img alt="" src="../src/img/green.gif"></a></li>
+	
 				<li data-direction="north"><a href=""><img alt="" src="../src/img/red.gif"></a></li>
+	
 				<li data-direction="east"><a href=""><img alt="" src="../src/img/blue.gif"></a></li>
+	
 				<li data-direction="west"><a href=""><img alt="" src="../src/img/white.gif"></a></li>
+	
 				<li data-direction="north"><a href=""><img alt="" src="../src/img/black.gif"></a></li>
+	
 				<li data-direction="east"><a href=""><img alt="" src="../src/img/yellow.gif"></a></li>
+	
 				<li data-direction="south"><a href=""><img alt="" src="../src/img/orange.gif"></a></li>
+	
 			</ul>
+	
 		</div>	
+	
 	</div>
   ```
   - Possibile options for the **li**-tag
