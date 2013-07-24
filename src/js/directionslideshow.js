@@ -52,7 +52,7 @@
 						next.addClass('active').css({left:next.width()*-1}).animate({left:0},duration,easing);
 					}
 					current.removeClass('last-active');
-					window.setTimeout(function(){  moveSlide(parent,next); },delay);
+					window.setTimeout(function(){  moveSlide(parent,next); },delay+duration);
 				}
 			};
 	  	/*
